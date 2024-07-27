@@ -53,8 +53,16 @@ function Register() {
       if (response.status === 200) {
         //const { token } = response.data;
         //localStorage.setItem('token', token); // Store the token in localStorage
-        navigate('/');
-        console.log('customer registered successfully');
+        console.log(response.data.msg);
+        if(response.data.msg==="Company Name already registered")
+        {
+          alert('Company name already registered');
+        }
+        else{
+          navigate('/');
+          console.log('company registered successfully');
+        }
+       
       } else {
         // Handle login failure
         console.log('Registeration failed');

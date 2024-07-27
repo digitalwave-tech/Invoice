@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GM+PGMIPylvcC74krKwlPzSJnnpHfNisvNAsX+XSSd4=",
+  "Source": "InvoiceManagement",
+  "BasePath": "_content/InvoiceManagement",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

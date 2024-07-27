@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\ItemsDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|c:\\digitalwave\\invoice\\invoiceapi\\invoicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\InvoiceRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\CustomerRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\Invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Interfaces\\IInvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\InvoiceRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\PDFTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|c:\\digitalwave\\invoice\\invoiceapi\\invoicemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|c:\\digitalwave\\invoice\\invoiceapi\\invoicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3460E23-D1D6-48A7-9C67-5C44C0BFC8BE}|InvoiceManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T13:18:04.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsDetails.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\ItemsDetails.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\ItemsDetails.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\ItemsDetails.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\ItemsDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:47.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceRepo.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\InvoiceRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\InvoiceRepo.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\InvoiceRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\InvoiceRepo.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAASwHEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:14:22.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAACIAAAAAxczMzEwXwDYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:05:55.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\CustomerRepo.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\CustomerRepo.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\BusinessLayer\\Repositories\\CustomerRepo.cs",
+              "ViewState": "AQIAAAoAAAAAKDMzMzPbvxEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:29:00.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAGwBAAAAAGZmZmbiv6YBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:20:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoices.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\Invoices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\Invoices.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\Invoices.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Entities\\Invoices.cs",
+              "ViewState": "AQIAAAUAAAB0NDMzM/MswBMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:43:26.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DigitalWave\\Invoice\\InvoiceApi\\InvoiceManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowFMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:18:53.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IInvoice.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Interfaces\\IInvoice.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Interfaces\\IInvoice.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Interfaces\\IInvoice.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Interfaces\\IInvoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:40:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvoiceRequest.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\InvoiceRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\InvoiceRequest.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\InvoiceRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\InvoiceRequest.cs",
+              "ViewState": "AQIAAAYAAAAAMzMzMzP7vxEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:44:46.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PDFTemplate.cs",
+              "DocumentMoniker": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\PDFTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\PDFTemplate.cs",
+              "ToolTip": "C:\\DigitalWave\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\PDFTemplate.cs",
+              "RelativeToolTip": "..\\..\\..\\InvoiceMgmt_API\\InvoiceMgmt_Api-master\\DAL\\Models\\PDFTemplate.cs",
+              "ViewState": "AQIAACAAAABAZGZmZiY0wCsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:47:12.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

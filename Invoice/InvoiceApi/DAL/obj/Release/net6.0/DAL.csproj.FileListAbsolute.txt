@@ -1,0 +1,14 @@
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\bin\Release\net6.0\DAL.deps.json
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\bin\Release\net6.0\DAL.runtimeconfig.json
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\bin\Release\net6.0\DAL.dll
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\bin\Release\net6.0\DAL.pdb
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.csproj.AssemblyReference.cache
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.AssemblyInfoInputs.cache
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.AssemblyInfo.cs
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.dll
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\refint\DAL.dll
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.pdb
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\DAL.genruntimeconfig.cache
+C:\DigitalWave\InvoiceMgmt_API\InvoiceMgmt_Api-master\DAL\obj\Release\net6.0\ref\DAL.dll
